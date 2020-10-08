@@ -1,6 +1,6 @@
 #**********************************************************************
 #
-# ALGORITHM 2 - POSITIONAL ENTROPY FOR SINGLE D-ADJACENT.
+# ALGORITHM 2 - POSITIONAL ENTROPY FOR M ADJACENTS.
 #
 # Author: Marcin Cholewa
 # Date created: 27 Julius Anno Currente 2020
